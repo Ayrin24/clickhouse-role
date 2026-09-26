@@ -1,4 +1,4 @@
-#SPDX-License-Identifier: MIT-0
+# SPDX-License-Identifier: MIT-0
 ---
 clickhouse_version: "22.3.3.44"
 clickhouse_deb_base_url: "https://packages.clickhouse.com/deb/pool/main/c"
