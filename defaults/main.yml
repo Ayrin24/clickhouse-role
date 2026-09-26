@@ -1,0 +1,8 @@
+#SPDX-License-Identifier: MIT-0
+---
+clickhouse_version: "22.3.3.44"
+clickhouse_deb_base_url: "https://packages.clickhouse.com/deb/pool/main/c"
+clickhouse_deb_arch: "amd64"
+clickhouse_database: "logs"
+
+# defaults file for clickhouse

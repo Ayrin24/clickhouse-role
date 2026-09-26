@@ -1,0 +1,10 @@
+#SPDX-License-Identifier: MIT-0
+---
+
+clickhouse_service_name: "clickhouse-server"
+clickhouse_tmp_dir: "/tmp"
+clickhouse_packages:
+  - clickhouse-common-static
+  - clickhouse-client
+  - clickhouse-server
+# vars file for clickhouse
